@@ -1,0 +1,8 @@
+@@@Road Map
+
+	1. Add English and Chinese monster names
+		-- processing
+---
+	## 2024.08.13	version 0.0.0 -- main
+	-- Branch initialization
+	
