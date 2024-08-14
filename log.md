@@ -8,8 +8,14 @@
 ---
 	## 2024.08.14	version 0.0.1 -- main
 	-- Add data
+	-- Style change
 	# Added
 	1. Add more info
+		-- finished
+	2. Add one Kulu Ya Ku data for testing
+		-- finished
+	# Changed
+	1. Add more index and simplify existing index 
 		-- finished
 ---
 	## 2024.08.13	version 0.0.0 -- main
