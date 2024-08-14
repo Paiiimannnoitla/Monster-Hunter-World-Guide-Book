@@ -14,6 +14,8 @@
 		-- finished
 	2. Add one Kulu Ya Ku data for testing
 		-- finished
+	3. Finish Kulu Ya Ku data
+		-- finished
 	# Changed
 	1. Add more index and simplify existing index 
 		-- finished
