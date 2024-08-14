@@ -4,7 +4,13 @@
 		-- finished
 	2. Add some basic attack data
 		-- processing
-		
+
+---
+	## 2024.08.14	version 0.0.1 -- main
+	-- Add data
+	# Added
+	1. Add more info
+		-- finished
 ---
 	## 2024.08.13	version 0.0.0 -- main
 	-- Branch initialization
