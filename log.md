@@ -16,6 +16,8 @@
 		-- finished
 	3. Finish Kulu Ya Ku data
 		-- finished
+	4. Finish Coral Pukei Pukei and normal Pukei Pukei
+		-- finished
 	# Changed
 	1. Add more index and simplify existing index 
 		-- finished
