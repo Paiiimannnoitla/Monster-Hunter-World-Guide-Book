@@ -20,7 +20,9 @@
 		-- finished
 	5. Add color palette
 		-- finished
-	6.Set freeze to index
+	6. Set freeze to index
+		-- finished
+	7. Finish Tzitzi Ya Ku
 		-- finished
 	# Changed
 	1. Add more index and simplify existing index 
