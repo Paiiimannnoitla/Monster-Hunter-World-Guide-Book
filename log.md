@@ -18,6 +18,10 @@
 		-- finished
 	4. Finish Coral Pukei Pukei and normal Pukei Pukei
 		-- finished
+	5. Add color palette
+		-- finished
+	6.Set freeze to index
+		-- finished
 	# Changed
 	1. Add more index and simplify existing index 
 		-- finished
