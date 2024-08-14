@@ -24,6 +24,8 @@
 		-- finished
 	7. Finish Tzitzi Ya Ku
 		-- finished
+	8. Finish Yian Garuga
+		-- finished
 	# Changed
 	1. Add more index and simplify existing index 
 		-- finished
