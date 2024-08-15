@@ -6,6 +6,12 @@
 		-- processing
 
 ---
+	## 2024.08.15	version 0.0.2 -- main
+	-- Add test data
+	# Added
+	1. Add test data
+		-- finished
+---
 	## 2024.08.14	version 0.0.1 -- main
 	-- Add data
 	-- Style change
