@@ -19,6 +19,8 @@
 		-- finished
 	5. Finish Barroth
 		-- finished
+	6. Finish Deviljho
+		-- finished
 ---
 	## 2024.08.15	version 0.0.2 -- main
 	-- Add test data
