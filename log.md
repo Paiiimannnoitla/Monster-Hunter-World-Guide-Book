@@ -23,6 +23,8 @@
 		-- finished
 	7. Finish Savage Deviljho
 		-- finished
+	8. Finish Glavenus
+		-- finished
 ---
 	## 2024.08.15	version 0.0.2 -- main
 	-- Add test data
