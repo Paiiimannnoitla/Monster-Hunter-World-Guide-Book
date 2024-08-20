@@ -15,6 +15,8 @@
 		-- finished
 	3. Finish Fulgur Anjanath
 		-- finished
+	4. Finish Banbaro
+		-- finished
 ---
 	## 2024.08.15	version 0.0.2 -- main
 	-- Add test data
